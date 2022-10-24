@@ -1,0 +1,11 @@
+Fast and furious 7,2015,action,movie,
+Titanic,1997,drama,movie,
+Un tatic grozav,1999,comedy,movie,
+Fast and furious 9,2021,action,movie,
+Red notice,2021,comedy,movie,
+The Adam project,2022,action,movie
+Stay here(Renovare cu potential),2018,action,tv show,
+Purple hearts,2022,romantic,movie,
+Don't breathe,2016,horror,movie,
+Shaun the sheep,2015,adventure,animation,
+Rebelde,2004,telenovela,serial,
